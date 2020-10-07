@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1044003868637-vtb94659ed0017r47mt712vlr1jcioj1.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1044003868637-vtb94659ed0017r47mt712vlr1jcioj1</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>1044003868637-dtmhnmlpqc9o0101lrp9uujo0mv21otv.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAFpmn9NVO_ruWD8A3fh8_YI2Cy0jhxcYc</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1044003868637</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>sujitsarkar.glamid</string>
+	<key>PROJECT_ID</key>
+	<string>glam-id</string>
+	<key>STORAGE_BUCKET</key>
+	<string>glam-id.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1044003868637:ios:2860c7eb5e32d5be9c7034</string>
+	<key>DATABASE_URL</key>
+	<string>https://glam-id.firebaseio.com</string>
+</dict>
+</plist>

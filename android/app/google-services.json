@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1044003868637",
+    "firebase_url": "https://glam-id.firebaseio.com",
+    "project_id": "glam-id",
+    "storage_bucket": "glam-id.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1044003868637:android:8d707739532231f59c7034",
+        "android_client_info": {
+          "package_name": "sujitsarkar.glamid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1044003868637-dtmhnmlpqc9o0101lrp9uujo0mv21otv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "sujitsarkar.glamid",
+            "certificate_hash": "62ee45739081ec54bfcdd48ccc252729c5664e97"
+          }
+        },
+        {
+          "client_id": "1044003868637-1s3isill7irssdmbq3pp1h17ns228m01.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSVBO3qzXD-qsaeQFrCfhKFQ7hifVK5Uo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1044003868637-1s3isill7irssdmbq3pp1h17ns228m01.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
